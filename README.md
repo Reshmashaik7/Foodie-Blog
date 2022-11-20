@@ -44,8 +44,6 @@ This is a web based application developed for health related telugu based websit
 
 
 
-
-
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
